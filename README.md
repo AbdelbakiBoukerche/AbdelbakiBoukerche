@@ -17,7 +17,6 @@
 <a href="https://linkedin.com/in/abdelbaki-boukerche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelbaki-boukerche" height="30" width="40" /></a>&nbsp&nbsp
 <a href="https://stackoverflow.com/users/12242170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12242170" height="30" width="40" /></a>&nbsp&nbsp
 <a href="https://fb.com/abdelbaki.boukerche.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdelbaki.boukerche.1" height="30" width="40" /></a>&nbsp&nbsp
-<a href="https://instagram.com/bkrche_ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bkrche_ab" height="30" width="40" /></a>&nbsp&nbsp
 <a href="https://twitter.com/bkrche_ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bkrche_ab" height="30" width="40" /></a>
 
 </p>
